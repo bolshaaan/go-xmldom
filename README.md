@@ -1,5 +1,7 @@
 # go-xmldom
 
+Updated for namespaces
+
 [![Go Report Card](https://goreportcard.com/badge/github.com/subchen/go-xmldom)](https://goreportcard.com/report/github.com/subchen/go-xmldom)
 [![GoDoc](https://godoc.org/github.com/subchen/go-xmldom?status.svg)](https://godoc.org/github.com/subchen/go-xmldom)
 
