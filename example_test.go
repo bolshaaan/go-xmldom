@@ -1,8 +1,8 @@
 package xmldom
 
 import (
-	"fmt"
 	"bytes"
+	"fmt"
 )
 
 const (

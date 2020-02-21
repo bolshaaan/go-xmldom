@@ -7,6 +7,7 @@ import (
 type Namespaces []xml.Attr
 
 func (n *Namespaces) GetName(space string) *xml.Attr {
+
 	for _, attr := range *n {
 		if attr.Value == space {
 			return &attr
