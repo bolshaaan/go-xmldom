@@ -1,4 +1,4 @@
-module github.com/thefish/go-xmldom
+module github.com/bolshaaan/go-xmldom
 
 require github.com/antchfx/xpath v1.0.0
 
